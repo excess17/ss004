@@ -1,0 +1,9 @@
+code: ss004
+description: >-
+ A bundle to use for testing.
+
+components:
+  
+  contentTypes:
+    - contenttypes/my_content_type_descriptor.yaml
+
